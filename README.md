@@ -17,7 +17,7 @@ The main goals of this analysis are to:
 1. `Fresh_segments_Schema.sql`: SQL file containing the schema for the Fresh Segments database. This includes table creations and relationships.
 2. `Questions&Answers.sql`: SQL scripts that detail the queries used to answer the business questions from the case study along with their results.
 3. `Report_SQL_CaseStudy8.pdf`: A comprehensive report that outlines the analysis process, key findings, and detailed observations from the case study.
-4. `Data`: A file containing three Excel workbooks with relevant data visualizations and analyses pertinent to the case study.
+4. `Dataset`: A file containing three Excel workbooks with relevant data visualizations and analyses pertinent to the case study.
 
 
 ### Tools & Technologies
